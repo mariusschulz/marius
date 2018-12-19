@@ -1,3 +1,5 @@
+#! /usr/bin/env node
+
 const boxen = require("boxen");
 const { bold, blue } = require("chalk").default;
 

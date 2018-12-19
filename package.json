@@ -4,7 +4,9 @@
   "description": "Marius Schulz",
   "main": "./src/index.js",
   "keywords": [],
-  "bin": "./src/index.js",
+  "bin": {
+    "marius": "./src/index.js"
+  },
   "author": {
     "name": "Marius Schulz",
     "email": "marius.schulz@me.com",
