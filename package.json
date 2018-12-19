@@ -2,8 +2,9 @@
   "name": "marius",
   "version": "0.0.1",
   "description": "Marius Schulz",
-  "main": "src/index.js",
+  "main": "./src/index.js",
   "keywords": [],
+  "bin": "./src/index.js",
   "author": {
     "name": "Marius Schulz",
     "email": "marius.schulz@me.com",
