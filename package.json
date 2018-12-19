@@ -1,6 +1,6 @@
 {
   "name": "marius",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Marius Schulz",
   "main": "./src/index.js",
   "keywords": [],
